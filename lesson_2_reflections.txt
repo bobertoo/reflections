@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	it enables tracking of files contained the the directory. it turns the directory into a git repository. you need to initialize git in order to use git
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	it moves a file to the the intermediate area so you can focus on the next file that needs changed
