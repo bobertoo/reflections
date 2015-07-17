@@ -6,3 +6,5 @@ Describe the differences between forks, clones, and branches. When would you us 
   >clone is taking a github repo and saving it locally
   >branch is a diversion from a master branch and has been explained as happeni    ng on the local level
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+  >so you know the starting point from where you started making changes
