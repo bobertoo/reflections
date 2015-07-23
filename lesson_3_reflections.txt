@@ -8,3 +8,6 @@ Describe the differences between forks, clones, and branches. When would you us 
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
   >so you know the starting point from where you started making changes
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+  >if you are working with a team and would like them to review the feature before adding to master. good for experimental work as well. benefits of working on master is that there is only one straight line of work being done and you don't have to worry about having conflicting branches. benefits of working with searate branches is that a team of people can do work on their own and then decide if they want to pull them into master
